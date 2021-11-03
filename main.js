@@ -65,6 +65,7 @@ rover_y-=10;
     uploadrover();
     
 }
+}
     
     function down()
 {
@@ -94,4 +95,5 @@ rover_x-=10;
     uploadBackground();
     uploadrover();
     
+}
 }
